@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+---
+
+layout: default
+author: ivan
+email : xiacheyunivan@gmail.com
+title : ${1:enter your title}
+description:${2:enter your description}
+
+---
+
+${3}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>myheader</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
