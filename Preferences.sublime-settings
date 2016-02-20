@@ -7,5 +7,6 @@
 	],
 	"tab_size": 4,
 	"theme": "Spacegray Eighties.sublime-theme",
-	"translate_tabs_into_spaces": true
+	"translate_tabs_into_spaces": true,
+	"auto_complete_commit_on_tab": true
 }
